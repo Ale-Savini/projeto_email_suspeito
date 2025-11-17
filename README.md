@@ -111,7 +111,7 @@ python app.py
 
 Acesse no navegador:
 
-👉 http://127.0.0.1:5000
+👉http://localhost:5000
 
 👤 Autores
 
@@ -120,5 +120,6 @@ Julio Cesar Azevedo Souza                            RA: 24001773
 Gabriel Henrique dos Reis Diunizio                   RA: RA:24000541
 
 Projeto acadêmico focado em Inteligência Artificial aplicada à Segurança da Informação.
+
 
 
